@@ -1,4 +1,10 @@
-**Video walkthrough (setup/install):** [docs/video/mobsh-setup-install.mp4](docs/video/mobsh-setup-install.mp4)
+**Video walkthrough (setup/install):**
+
+<video src="docs/video/mobsh-setup-install.webm" controls width="720">
+  <a href="docs/video/mobsh-setup-install.webm">WebM</a> · <a href="docs/video/mobsh-setup-install.mp4">MP4</a>
+</video>
+
+[WebM (~1.1 MB)](docs/video/mobsh-setup-install.webm) · [MP4 (~0.9 MB)](docs/video/mobsh-setup-install.mp4)
 
 # Getting started (for facilitators)
 

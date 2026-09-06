@@ -2,7 +2,13 @@
 
 > **Never done this? Start here → [GETTING-STARTED.md](GETTING-STARTED.md)**
 
-**Watch (setup/install, ~1 min):** [docs/video/mobsh-setup-install.mp4](docs/video/mobsh-setup-install.mp4)
+**Watch (setup/install, ~1 min)** — plays on GitHub:
+
+<video src="docs/video/mobsh-setup-install.webm" controls width="720" poster="">
+  <a href="docs/video/mobsh-setup-install.webm">WebM</a> · <a href="docs/video/mobsh-setup-install.mp4">MP4</a>
+</video>
+
+[WebM (~1.1 MB)](docs/video/mobsh-setup-install.webm) · [MP4 (~0.9 MB)](docs/video/mobsh-setup-install.mp4)
 
 
 **Claude-led light mob programming with [mob.sh](https://mob.sh) (Go CLI from remotemobprogramming/mob) — not npm mob-coordinator.**
