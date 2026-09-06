@@ -4,11 +4,14 @@
 
 **Watch (setup/install, ~1 min)** — plays on GitHub:
 
-<video src="docs/video/mobsh-setup-install.webm" controls width="720" poster="">
-  <a href="docs/video/mobsh-setup-install.webm">WebM</a> · <a href="docs/video/mobsh-setup-install.mp4">MP4</a>
+<video controls width="720">
+  <source src="https://github.com/RyanLisse/mobsh-claude-light-mob/raw/main/docs/video/mobsh-setup-install.webm" type="video/webm">
+  <source src="https://github.com/RyanLisse/mobsh-claude-light-mob/raw/main/docs/video/mobsh-setup-install.mp4" type="video/mp4">
 </video>
 
 [WebM (~1.1 MB)](docs/video/mobsh-setup-install.webm) · [MP4 (~0.9 MB)](docs/video/mobsh-setup-install.mp4)
+
+
 
 
 **Claude-led light mob programming with [mob.sh](https://mob.sh) (Go CLI from remotemobprogramming/mob) — not npm mob-coordinator.**
