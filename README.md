@@ -2,6 +2,9 @@
 
 > **Never done this? Start here → [GETTING-STARTED.md](GETTING-STARTED.md)**
 
+**Watch (setup/install, ~1 min):** [docs/video/mobsh-setup-install.mp4](docs/video/mobsh-setup-install.mp4)
+
+
 **Claude-led light mob programming with [mob.sh](https://mob.sh) (Go CLI from remotemobprogramming/mob) — not npm mob-coordinator.**
 
 Package of Claude Code slash commands, a facilitation skill, and an idempotent setup script so a small team can form a light mob on **Teams + VS Code window share + GitLab + timer.mob.sh**, with Claude leading the clock and handoffs.

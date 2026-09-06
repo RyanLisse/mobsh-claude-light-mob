@@ -1,3 +1,5 @@
+**Video walkthrough (setup/install):** [docs/video/mobsh-setup-install.mp4](docs/video/mobsh-setup-install.mp4)
+
 # Getting started (for facilitators)
 
 **Never done this? This page is for you.** You do not need to be a developer to run the call. Follow the steps in order. After each step, check the “You should see” line before moving on.
