@@ -1,5 +1,7 @@
 # Dry-run: one 15-min rotate (Claude leading)
 
+Facilitator walkthrough (non-technical): [GETTING-STARTED.md](GETTING-STARTED.md).
+
 **Success criteria:** one clean rotate; Claude leading facilitation; no secrets; mob on GitLab.
 
 Cite: https://mob.sh. Do not invent metrics. No custom Live Share app.
